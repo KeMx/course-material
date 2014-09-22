@@ -7,4 +7,4 @@ Created on Mon Sep 22 18:40:06 2014
 
 for i in range(101):
     if i % 2 == 0:
-        print (i)
+        print(i)
