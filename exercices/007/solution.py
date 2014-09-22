@@ -6,5 +6,5 @@ Created on Mon Sep 22 17:55:19 2014
 """
 
 a = "Hello World"
-for i in range(len(a)):
-    print(a[i])
+for i in a:
+    print(i)
