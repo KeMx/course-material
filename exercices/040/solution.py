@@ -7,4 +7,4 @@ Created on Mon Sep 22 18:50:36 2014
 sum = 0
 for i in range(101):
     sum = sum + i
-print (sum)
+print(sum)
