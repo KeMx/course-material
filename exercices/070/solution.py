@@ -9,5 +9,5 @@ ab = "abcdefghijklnmopqrstuvwxyz"
 
 for i in range(len(ab)):
     for j in range(len(ab)):
-       if i != j:
-           print(ab[i] + ab[j])
+        if i != j:
+            print(ab[i] + ab[j])
